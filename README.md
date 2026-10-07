@@ -1,5 +1,5 @@
-# Houston Live — Pin Map MVP
-
+# houston-live-music
+Giving people the chance to see houston local shows that don't appear on any major ticket-selling app
 A local-first Houston music discovery map built around clickable show pins.
 
 ## What's included
